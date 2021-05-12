@@ -1,15 +1,5 @@
 # ESRGAN-pytorch
 
-This repository implements a deep-running model for super resolution.
- Super resolution allows you to pass low resolution images to CNN and restore them to high resolution. 
- We refer to the following article.  
- [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219)  
- 
- ## architecture
- [Overall Architecture]
- ![ESRGAN architecture](./image/architecture.PNG)  
- [Basic block]  
- ![BasicBlock](./image/basicBlock.PNG)
  
  ### Test Code
  ```bash
